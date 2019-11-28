@@ -7,11 +7,11 @@ Awesome list of useful ressources in actuarial science
 
 
 
-## Actuarial exams
+## Actuarial exams :books:
 * [Coaching Actuaries](https://www.coachingactuaries.com)
 * [Banque de questions pour les examens](http://www.saab.org/actuarial.cgi)
 
-## Useful Latex Resources
+## Useful Latex Resources 
 * [Formation Vincent Goulet](https://gitlab.com/vigou3/formation-latex-ul)
 * [Visual LaTex tikz graphic generator](https://www.mathcha.io/editor)
 
@@ -22,11 +22,19 @@ Awesome list of useful ressources in actuarial science
 * [Open ML](https://www.openml.org/home)
 
 ## Useful R Packages
+
+### Actuarial
+* [actuar](https://gitlab.com/vigou3/actuar)
+
+### Data manipulation :bar_chart:
+* [tidyverse](https://tidyverse.tidyverse.org)
+
+### GLM/ML :crystal_ball:
 * [caret](https://cran.r-project.org/web/packages/caret/vignettes/caret.html)
 * [mlr](https://mlr.mlr-org.com)
 * [mlr3](https://mlr3.mlr-org.com/reference/mlr3-package.html)
-* [actuar](https://gitlab.com/vigou3/actuar)
-* [tidyverse](https://tidyverse.tidyverse.org)
+
+
 
 ## Useful E-books
 * [Data vizualisation good practice](https://serialmentor.com/dataviz/aesthetic-mapping.html)
