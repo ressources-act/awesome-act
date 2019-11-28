@@ -19,11 +19,12 @@ Awesome list of useful ressources in actuarial science
 * [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
 * [Open ML](https://www.openml.org/home)
 
-## Usefull R Packages
+## Useful R Packages
 * [caret](https://cran.r-project.org/web/packages/caret/vignettes/caret.html)
 * [mlr](https://mlr.mlr-org.com)
 * [mlr3](https://mlr3.mlr-org.com/reference/mlr3-package.html)
 
 
-## Useful ebook
+## Useful E-books
 * [Data vizualisation good practice](https://serialmentor.com/dataviz/aesthetic-mapping.html)
+* [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
