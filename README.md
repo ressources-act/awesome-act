@@ -13,6 +13,7 @@ Awesome list of useful ressources in actuarial science
 
 ## Useful Latex Resources
 * [Formation Vincent Goulet](https://gitlab.com/vigou3/formation-latex-ul)
+* [Visual LaTex tikz graphic generator](https://www.mathcha.io/editor)
 
 ## Open-source database
 * [Données Québec](https://www.donneesquebec.ca/fr/)
