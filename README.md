@@ -30,3 +30,15 @@ Awesome list of useful ressources in actuarial science
 ## Useful E-books
 * [Data vizualisation good practice](https://serialmentor.com/dataviz/aesthetic-mapping.html)
 * [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
+
+## REGEX Resources
++ [RegexOne - Learn Regular Expressions with simple, interactive exercices](https://regexone.com/)
++ [Regex 101 - Online tester and debugger](https://regex101.com/)
++ [Regex Golf](https://alf.nu/RegexGolf) :video_game:
++ [Regex Crossword](https://regexcrossword.com/) :video_game:
+
+## Cheatsheets
++ [REGEX](http://overapi.com/regex)
++ [Data wrangling](https://rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf)
++ [LaTex](http://tug.ctan.org/info/undergradmath/undergradmath.pdf)
++ [R Markdown](https://rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf)
