@@ -35,6 +35,9 @@ Awesome list of useful ressources in actuarial science
 * [mlr3](https://mlr3.mlr-org.com/reference/mlr3-package.html)
 
 
+## Useful R ressources
+* [Minimal R Package tutorial](https://kbroman.org/pkg_primer/)
+
 
 ## Useful E-books
 * [Data vizualisation good practice](https://serialmentor.com/dataviz/aesthetic-mapping.html)
