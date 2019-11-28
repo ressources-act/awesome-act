@@ -11,7 +11,8 @@ Awesome list of useful ressources in actuarial science
 * [Coaching Actuaries](https://www.coachingactuaries.com)
 * ...
 
-
+## Useful Latex Resources
+* [Formation Vincent Goulet](https://gitlab.com/vigou3/formation-latex-ul)
 
 ## Open-source database
 * [Données Québec](https://www.donneesquebec.ca/fr/)
@@ -23,7 +24,7 @@ Awesome list of useful ressources in actuarial science
 * [caret](https://cran.r-project.org/web/packages/caret/vignettes/caret.html)
 * [mlr](https://mlr.mlr-org.com)
 * [mlr3](https://mlr3.mlr-org.com/reference/mlr3-package.html)
-
+* [actuar](https://gitlab.com/vigou3/actuar)
 
 ## Useful E-books
 * [Data vizualisation good practice](https://serialmentor.com/dataviz/aesthetic-mapping.html)
