@@ -26,6 +26,7 @@ Awesome list of useful ressources in actuarial science
 * [mlr](https://mlr.mlr-org.com)
 * [mlr3](https://mlr3.mlr-org.com/reference/mlr3-package.html)
 * [actuar](https://gitlab.com/vigou3/actuar)
+* [tidyverse](https://tidyverse.tidyverse.org)
 
 ## Useful E-books
 * [Data vizualisation good practice](https://serialmentor.com/dataviz/aesthetic-mapping.html)
@@ -39,6 +40,7 @@ Awesome list of useful ressources in actuarial science
 
 ## Cheatsheets
 + [REGEX](http://overapi.com/regex)
-+ [Data wrangling](https://rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf)
++ [Data wrangling with dplyr](https://rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf)
 + [LaTex](http://tug.ctan.org/info/undergradmath/undergradmath.pdf)
 + [R Markdown](https://rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf)
++ [RStudio packages cheatsheet](https://rstudio.com/resources/cheatsheets/) : site web permettant de télécharger les cheatsheet les plus à jour pour des packages tels que ggplot2, dplyr, purrr, lubridate, shiny, rmarkdown, etc..
